@@ -48,7 +48,7 @@ namespace HelpDeskSystem.Data.Migrations
                 name: "IX_Comments_TicketId",
                 table: "Comments",
                 column: "TicketId");
-        }
+        }   
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
