@@ -296,3 +296,4 @@ C:\Users\KAL\source\repos\HelpDeskSystem\bin\Debug\net8.0\runtimes\win-arm\nativ
 C:\Users\KAL\source\repos\HelpDeskSystem\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\KAL\source\repos\HelpDeskSystem\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\KAL\source\repos\HelpDeskSystem\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\KAL\source\repos\HelpDeskSystem\obj\Debug\net8.0\HelpDeskSystem.sourcelink.json

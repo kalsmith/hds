@@ -37,6 +37,7 @@
             <th></th>
             <th></th>
             <th></th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -64,6 +65,10 @@
             <td>
                 @Html.DisplayFor(modelItem => item.CreatedOn)
             </td>
+                <td>
+                    <a asp-action="TicketsCommnets" asp-controller="Comments" asp-route-id="@item.Id" class="btn btn-secondary w-100">Comments</a>
+                </td>
+
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary w-100">Edit</a>
                 </td>
